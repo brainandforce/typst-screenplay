@@ -2,9 +2,9 @@
 
 ## Fonts
 
-Please make sure to download and install either the font `Courier`, `Courier New`, or some other Courier clone, because the builtin mono-spaced fonts on typst are horrific.
+Please make sure to download and install either the font `Courier`, `Courier New`, `Courier Prime`, or some other Courier clone, because the builtin mono-spaced fonts on typst are horrific.
 
-`Courier` and `Courier New` are natively supported, but you can use another font by inserting a `set` rule like so:
+`Courier`, `Courier New`, and `Courier Prime` are natively supported, but you can use another font by inserting a `set` rule like so:
 
 ```typ
 #show: screenplay.with()

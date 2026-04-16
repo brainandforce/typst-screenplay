@@ -11,6 +11,7 @@
     font: (
       "Courier",
       "Courier New",
+      "Courier Prime",
       "DejaVu Sans Mono",
     ),
     dir: dir,

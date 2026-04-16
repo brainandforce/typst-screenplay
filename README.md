@@ -4,7 +4,7 @@ A template for writing a film/TV script in screenplay format. This is a mix of t
 
 ## Usage
 
-> Before you start please make sure to download and install either the font `Courier` or `Courier New`.
+> Before you start please make sure to download and install either the font `Courier`, `Courier New`, or `Courier Prime`.
 
 ```typ
 #import "@preview/its-scripted:0.1.0": *
